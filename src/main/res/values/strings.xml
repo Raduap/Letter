@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Letter</string>
+    <string name="action_settings">Settings</string>
+    <string name="TheLetter">前言：这是高度简洁化的粘贴板Letter</string>
+</resources>
