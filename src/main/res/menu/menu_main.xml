@@ -2,10 +2,47 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="project.letter.letter.MainActivity">
+
+
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/action_filename"
         android:orderInCategory="100"
-        android:title="关于"
-        android:onClick="abou"
+        android:title="文件"
+
+        android:onClick="figur"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sett"
+        android:orderInCategory="100"
+        android:title="清空"
+        android:onClick="buju"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/copy"
+        android:orderInCategory="100"
+        android:title="复制"
+        android:onClick="copy"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/darkmode"
+        android:orderInCategory="100"
+        android:title="暗夜模式"
+        android:onClick="anyemode"
+        app:showAsAction="never"
+
+        />
+
+    <item
+    android:id="@+id/action_settings"
+    android:orderInCategory="100"
+    android:title="关于"
+    android:onClick="abou"
+    app:showAsAction="never" />
+
+
+
 </menu>
