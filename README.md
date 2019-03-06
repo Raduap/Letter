@@ -4,3 +4,7 @@ Simple Copy app
 
 2019.3.6 版本 7.1
 2019.2.1 版本 1.0.1 
+
+
+CopyRight By Raduap. 2019.
+
